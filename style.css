@@ -1,0 +1,44 @@
+﻿#welcome {
+    background: linear-gradient(rgb(234, 56, 223) 30%, rgb(233, 167, 211) 50%);
+    text-align: center;
+    color: blueviolet;
+}
+
+h1 {
+    font-family: 'Potta One', cursive;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+#bio {
+    text-align: left;
+    background: linear-gradient(rgb(234, 56, 223) 50%, rgb(233, 167, 211) 30%);
+    color: aqua;
+}
+
+p {
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+.links {
+    list-style: none;
+    font-family: cursive;
+    float: left;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    margin: 4px, 9px, 4px, 9px;
+    padding: 5px, 10px, 5px, 10px;
+}
+
+.links:hover {
+    background-color: darkred;
+}
+
+img {
+    border-radius: 50%;
+}
